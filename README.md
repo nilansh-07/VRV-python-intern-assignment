@@ -50,7 +50,7 @@ The system provides the following analyses:
 
    ```bash
    # Option 1: Clone with Git
-   git clone https://github.com/nilansh-07/VRV-python-intern-assessment.git
+   git clone https://github.com/nilansh-07/VRV-python-intern-assignment.git
    cd web-log-analysis-system
 
    # Option 2: Download ZIP
