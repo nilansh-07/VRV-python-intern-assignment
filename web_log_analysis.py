@@ -11,8 +11,8 @@ from prettytable import PrettyTable
 
 # Configuration
 log_file_path = "sample.log"
-output_csv_path = "log_analysis_results.csv"
-output_html_path = "log_analysis_report.html"
+output_csv_path = "web_log_analysis_results.csv"
+output_html_path = "web_log_analysis_report.html"
 FAILED_LOGIN_THRESHOLD = 5
 
 def parse_log_file(file_path):
